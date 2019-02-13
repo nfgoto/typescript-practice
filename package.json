@@ -1,0 +1,25 @@
+{
+  "name": "typescript_essentials",
+  "version": "1.0.0",
+  "description": "core typescript for experimentation",
+  "main": "src/app.ts",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tsc --w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nfgoto/typescript-practice.git"
+  },
+  "keywords": [
+    "typescript",
+    "types",
+    "javascript",
+    "compiler"
+  ],
+  "author": "Florian GOTO",
+  "license": "ISC"
+}
