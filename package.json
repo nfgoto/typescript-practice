@@ -5,7 +5,7 @@
   "main": "src/app.ts",
   "dependencies": {
     "lite-server": "^2.4.0",
-    "nodemon": "^1.18.10"
+    "nodemon": "^2.0.3"
   },
   "devDependencies": {},
   "scripts": {
