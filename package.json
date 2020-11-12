@@ -4,7 +4,7 @@
   "description": "core typescript for experimentation",
   "main": "src/app.ts",
   "dependencies": {
-    "lite-server": "^2.4.0",
+    "lite-server": "^2.6.1",
     "nodemon": "^1.18.10"
   },
   "devDependencies": {},
